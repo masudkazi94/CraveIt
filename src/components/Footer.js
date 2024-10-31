@@ -24,7 +24,7 @@ const Footer = () => {
             <ul >
               <li className='py-2 text-sm'>India</li>
               <li className='py-2 text-sm'>USA</li>
-              <li className='py-2 text-sm'>china</li>
+              <li className='py-2 text-sm'>China</li>
               <li className='py-2 text-sm'>UAE</li>
             </ul>
           </div>
